@@ -36,7 +36,7 @@ body {
     animation: animate 6s linear infinite;
 }
 
-.box::after a{
+.box::after {
     content: '';
     position: absolute;
     top: -50%;
